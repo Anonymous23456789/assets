@@ -1,0 +1,11 @@
+{
+    "name": "Pulse.Rent",
+    "type": "BEP20",
+    "symbol": "PR",
+    "decimals": 18,
+    "website": "http://pulse.rent/",
+    "description": "Pulse Rent is a dividend token that helps generate passive income for investors. Reward holders 1000 PR tokens. The Pulse.Rent protocol liquidates 3% of each transaction forever and redistributes 3% to token holders as a busd reward, and 3% to the marketing wallet for future projects, burning, staking pool...95 % of liquidity is blocked until the year 2030. This is to increase the value of the token and allow time to think about possible solutions.",
+    "explorer": "https://bscscan.com/token/0x862334128CA8514c7f1C4e9409fa0fBB61FD1233",
+    "status": "active",
+    "id": "0x862334128CA8514c7f1C4e9409fa0fBB61FD1233"
+}
